@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## This is test maps
 This is test map, GSI map with leaflet [map](https://ubkw.github.io/map.html)  
-This is test map, GSI map with OpenLayers3 [map](https://ubkw.github.io/map2.html)
+This is test map, GSI map with OpenLayers3 [map](https://ubkw.github.io/map2.html)  
 This is test map, OSM with OpenLayers [map](https://ubkw.github.io/map3.html)
 
 
