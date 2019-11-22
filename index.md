@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/ubkw/ubkw.github.io/edit/m
 
 ## This is test
 This is test map, GSI map with leaflet [map](https://ubkw.github.io/map.html)
+This is test map, GSI map with OpenLayers3 [map](https://ubkw.github.io/map2.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
